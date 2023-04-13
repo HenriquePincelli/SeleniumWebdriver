@@ -1,0 +1,69 @@
+Horário de Partida,Horário de Chegada,De,Para,Duração da viagem,Tipo de Serviço,Preço da passagem
+01:40,11:00,"Sao Paulo, SP - Barra Funda","Maringa, PR",9h 20m,Semileito,"R$179,89"
+10:15,19:30,"Sao Paulo, SP - Barra Funda","Maringa, PR",9h 15m,"Leito
+5 disponíveis","R$195,35"
+10:15,19:30,"Sao Paulo, SP - Barra Funda","Maringa, PR",9h 15m,"Cama - Cabine
+10 disponíveis","R$309,98"
+10:15,19:30,"Sao Paulo, SP - Barra Funda","Maringa, PR",9h 15m,Leito,"R$180,00"
+12:55,22:10,"Sao Paulo, SP - Barra Funda","Maringa, PR",9h 15m,Semileito - DD,"R$169,99"
+12:55,22:10,"Sao Paulo, SP - Barra Funda","Maringa, PR",9h 15m,"Cama
+8 disponíveis","R$209,99"
+13:00,22:15,"Sao Paulo, SP - Barra Funda","Maringa, PR",9h 15m,Semileito,"R$169,88"
+13:00,22:15,"Sao Paulo, SP - Barra Funda","Maringa, PR",9h 15m,"Cama - Cabine
+4 disponíveis","R$309,98"
+15:30,01:20,"Sao Paulo, SP - Barra Funda","Maringa, PR",9h 50m,Cama - Cabine,"R$309,98"
+15:30,01:20,"Sao Paulo, SP - Barra Funda","Maringa, PR",9h 50m,Semileito,"R$144,98"
+19:00,04:05,"Sao Paulo, SP - Barra Funda","Maringa, PR",9h 5m,Semileito - Space,"R$144,98"
+19:00,04:05,"Sao Paulo, SP - Barra Funda","Maringa, PR",9h 5m,"Semileito - Space
+12 disponíveis","R$164,24"
+19:15,04:15,"Sao Paulo, SP - Barra Funda","Maringa, PR",9h 0m,"Cama - Cabine
+3 disponíveis","R$310,00"
+19:15,04:15,"Sao Paulo, SP - Barra Funda","Maringa, PR",9h 0m,Semileito,"R$169,89"
+19:15,04:15,"Sao Paulo, SP - Barra Funda","Maringa, PR",9h 0m,Semileito,"R$142,52"
+20:40,06:00,"Sao Paulo, SP - Barra Funda","Maringa, PR",9h 20m,Semileito - DD,"R$169,99"
+20:40,06:40,"Sao Paulo, SP - Barra Funda","Maringa, PR",10h 0m,"Semileito - Space
+9 disponíveis","R$157,82"
+20:40,06:00,"Sao Paulo, SP - Barra Funda","Maringa, PR",9h 20m,"Cama
+4 disponíveis","R$249,99"
+20:40,06:40,"Sao Paulo, SP - Barra Funda","Maringa, PR",10h 0m,Semileito - Space,"R$144,98"
+20:45,06:40,"Sao Paulo, SP - Barra Funda","Maringa, PR",9h 55m,Leito - Total,"R$164,98"
+21:00,05:55,"Sao Paulo, SP - Barra Funda","Maringa, PR",8h 55m,"Cama - Cabine
+6 disponíveis","R$309,99"
+21:00,05:55,"Sao Paulo, SP - Barra Funda","Maringa, PR",8h 55m,"Leito
+3 disponíveis","R$196,07"
+21:00,05:55,"Sao Paulo, SP - Barra Funda","Maringa, PR",8h 55m,"Leito
+7 disponíveis","R$179,98"
+22:00,07:00,"Sao Paulo, SP - Barra Funda","Maringa, PR",9h 0m,"Leito
+1 disponíveis","R$196,06"
+22:00,07:50,"Sao Paulo, SP - Barra Funda","Maringa, PR",9h 50m,"Cama
+8 disponíveis","R$210,00"
+22:00,07:00,"Sao Paulo, SP - Barra Funda","Maringa, PR",9h 0m,"Cama - Cabine
+3 disponíveis","R$309,98"
+22:00,07:00,"Sao Paulo, SP - Barra Funda","Maringa, PR",9h 0m,"Leito
+10 disponíveis","R$179,98"
+22:00,07:50,"Sao Paulo, SP - Barra Funda","Maringa, PR",9h 50m,Semileito,"R$155,13"
+22:15,08:05,"Sao Paulo, SP - Barra Funda","Maringa, PR",9h 50m,"Cama
+4 disponíveis","R$249,99"
+22:15,08:05,"Sao Paulo, SP - Barra Funda","Maringa, PR",9h 50m,Semileito - DD,"R$169,99"
+22:20,07:25,"Sao Paulo, SP - Barra Funda","Maringa, PR",9h 5m,Cama - Cabine,"R$309,98"
+22:20,07:25,"Sao Paulo, SP - Barra Funda","Maringa, PR",9h 5m,"Semileito
+4 disponíveis","R$115,89"
+22:30,07:00,"Sao Paulo, SP - Barra Funda","Maringa, PR",8h 30m,"Cama - Cabine Non Stop
+7 disponíveis","R$309,98"
+22:30,07:45,"Sao Paulo, SP - Barra Funda","Maringa, PR",9h 15m,Semileito,"R$142,52"
+22:30,07:00,"Sao Paulo, SP - Barra Funda","Maringa, PR",8h 30m,Leito,"R$216,98"
+22:30,07:45,"Sao Paulo, SP - Barra Funda","Maringa, PR",9h 15m,"Leito
+12 disponíveis","R$217,52"
+22:45,07:20,"Sao Paulo, SP - Barra Funda","Maringa, PR",8h 35m,"Cama - Cabine
+4 disponíveis","R$309,98"
+22:45,07:20,"Sao Paulo, SP - Barra Funda","Maringa, PR",8h 35m,Leito,"R$180,00"
+22:45,07:20,"Sao Paulo, SP - Barra Funda","Maringa, PR",8h 35m,"Leito
+1 disponíveis","R$195,35"
+23:00,08:15,"Sao Paulo, SP - Barra Funda","Maringa, PR",9h 15m,Semileito - DD,"R$169,99"
+23:00,08:15,"Sao Paulo, SP - Barra Funda","Maringa, PR",9h 15m,"Cama
+3 disponíveis","R$249,99"
+23:30,08:20,"Sao Paulo, SP - Barra Funda","Maringa, PR",8h 50m,"Cama - Cabine
+1 disponíveis","R$309,98"
+23:30,08:30,"Sao Paulo, SP - Barra Funda","Maringa, PR",9h 0m,"Convencional
+15 disponíveis","R$174,99"
+23:30,08:20,"Sao Paulo, SP - Barra Funda","Maringa, PR",8h 50m,Semileito,"R$174,90"
